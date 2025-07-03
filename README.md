@@ -36,7 +36,7 @@ For SW package installation follow the instructions on section See Installation 
 
 
 # amarisoft-lte
-last file 2025-05-21
+last file 2025-06-13
 
 need license contact to my mail
 irichard84[at]proton.me
