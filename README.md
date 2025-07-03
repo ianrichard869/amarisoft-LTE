@@ -39,7 +39,7 @@ For SW package installation follow the instructions on section See Installation 
 last file 2025-05-21
 
 need license contact to my mail
-nuledsec[at]proton.me
+irichard84[at]proton.me
 
 
 1 Month service $199
